@@ -1,1 +1,1 @@
-# lab2_devops
+# xproce-project
